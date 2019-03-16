@@ -1,0 +1,7 @@
+kane/tech/cat_prod/dao/CategorieRepository.class
+kane/tech/cat_prod/models/Categorie.class
+kane/tech/cat_prod/dao/ProduitRepository.class
+kane/tech/cat_prod/CatProdApplication.class
+kane/tech/cat_prod/security/SecurityConfig.class
+kane/tech/cat_prod/models/Produit.class
+kane/tech/cat_prod/security/JWTAutorizationFilter.class

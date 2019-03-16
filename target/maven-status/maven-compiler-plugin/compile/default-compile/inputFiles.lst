@@ -1,0 +1,7 @@
+/home/cheikh/Bureau/workspace-jee/cat_prod/src/main/java/kane/tech/cat_prod/models/Categorie.java
+/home/cheikh/Bureau/workspace-jee/cat_prod/src/main/java/kane/tech/cat_prod/security/JWTAutorizationFilter.java
+/home/cheikh/Bureau/workspace-jee/cat_prod/src/main/java/kane/tech/cat_prod/dao/CategorieRepository.java
+/home/cheikh/Bureau/workspace-jee/cat_prod/src/main/java/kane/tech/cat_prod/models/Produit.java
+/home/cheikh/Bureau/workspace-jee/cat_prod/src/main/java/kane/tech/cat_prod/dao/ProduitRepository.java
+/home/cheikh/Bureau/workspace-jee/cat_prod/src/main/java/kane/tech/cat_prod/security/SecurityConfig.java
+/home/cheikh/Bureau/workspace-jee/cat_prod/src/main/java/kane/tech/cat_prod/CatProdApplication.java
